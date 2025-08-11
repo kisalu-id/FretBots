@@ -65,7 +65,7 @@ NeutralStash = {{},{},{},{},{}}
 AwardedNeutrals = {}
 
 -- master table (items don't get removed from this one)
-local masterNeutralTable = dofile('Fretbots.SettingsNeutralItemTable')
+local masterNeutralTable = dofile('FretBots.SettingsNeutralItemTable')
 
 -- returns true if we've found every item we can
 function BonusTimers:IsFindingDone()

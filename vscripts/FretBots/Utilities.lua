@@ -7,7 +7,7 @@ end
 -- Hero Names
 local heroNames = require('FretBots.HeroNames')
 -- sweet DeepPrint function I cadged from GitHub
-local inspect = require('FretBots.inspect')
+local inspect = require('FretBots.Inspect')
 
 if Utilities == nil then
 	Utilities =

@@ -6,7 +6,7 @@ require 'FretBots.DataTables'
 require 'FretBots.Debug'
 require 'FretBots.Flags'
 require 'FretBots.GameState'
-require 'Fretbots.Utilities'
+require 'FretBots.Utilities'
 
 -- local debug flag
 local thisDebug = true;
